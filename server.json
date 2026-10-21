@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.owenscheuer/paceva",
+  "title": "Paceva",
+  "description": "Your swim, bike and run training from your watch: readiness, HRV, sleep, workouts and race predictions as honest ranges. Read-only, OAuth.",
+  "repository": {
+    "url": "https://github.com/OwenScheuer/paceva-developers",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://paceva.app/api/mcp"
+    }
+  ]
+}

@@ -36,6 +36,7 @@ Full walkthrough: [docs/connect.md](docs/connect.md).
 | [docs/oauth.md](docs/oauth.md) | The OAuth 2.1 server: discovery, PKCE, client registration, tokens |
 | [docs/intervals-icu.md](docs/intervals-icu.md) | How watch data gets in: the Intervals.icu sign-in, step by step |
 | [docs/data-and-privacy.md](docs/data-and-privacy.md) | What the AI app can and can't see |
+| [docs/listing.md](docs/listing.md) | The MCP Registry entry (`server.json`) and directories to submit to |
 | [examples/](examples) | `curl` discovery, a raw JSON-RPC call, client config snippets |
 
 ## Ground rules
