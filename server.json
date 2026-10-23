@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.owenscheuer/paceva",
+  "name": "io.github.OwenScheuer/paceva",
   "title": "Paceva",
   "description": "Your swim, bike and run training: readiness, HRV, sleep, workouts and race predictions. Read-only.",
   "repository": {

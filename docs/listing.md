@@ -10,7 +10,7 @@ clients that read the registry pick it up from there.
 
 ```bash
 # install mcp-publisher: see the registry's quickstart
-mcp-publisher login github        # proves you own io.github.owenscheuer/*
+mcp-publisher login github        # proves you own io.github.OwenScheuer/*
 mcp-publisher publish             # from this repo's root
 ```
 
