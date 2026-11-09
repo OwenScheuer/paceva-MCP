@@ -1,5 +1,7 @@
 <p align="center"><img src="assets/header.jpg" alt="Paceva: now live for Claude and ChatGPT" width="100%"></p>
 
+<p align="center"><a href="docs/connect.md"><img src="assets/paceva-mcp-badge.svg" alt="Paceva MCP server: read-only, OAuth 2.1, works with Claude, ChatGPT, Cursor and VS Code" width="420"></a></p>
+
 # Paceva for developers
 
 Paceva turns an endurance athlete's watch data into honest race predictions:

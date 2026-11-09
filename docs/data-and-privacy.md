@@ -14,6 +14,10 @@ What the AI app does with the answers is governed by **that app's** privacy
 policy (Anthropic's, OpenAI's, …), not Paceva's. Paceva never sends your data
 to an AI app you haven't connected yourself.
 
+Paceva records which app called which tool, when, how long it took and whether
+it worked. It never records what the app asked or what came back. These records
+are deleted after 90 days, or when you delete your account.
+
 Every value carries its source:
 
 | `source` | Meaning |
